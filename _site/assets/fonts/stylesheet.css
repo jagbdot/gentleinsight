@@ -1,0 +1,105 @@
+/* Inter (sans serif) */
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-BoldItalic.woff2') format('woff2'),
+        url('Inter-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Black.woff2') format('woff2'),
+        url('Inter-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter UI';
+    src: url('InterUI-BlackItalic.woff2') format('woff2'),
+        url('InterUI-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Bold.woff2') format('woff2'),
+        url('Inter-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Regular.woff2') format('woff2'),
+        url('Inter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Italic.woff2') format('woff2'),
+        url('Inter-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
+
+/* Playfair Display (serif) */
+
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('PlayfairDisplay-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('PlayfairDisplay-Bolditalic.ttf') format('ttf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('PlayfairDisplay-Black.ttf') format('ttf');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('PlayfairDisplay-Blackitalic.ttf') format('ttf');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('PlayfairDisplay-Regular.ttf') format('ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PlayfairDisplay';
+    src: url('PlayfairDisplay-Italic.ttf') format('ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* BIGJOHN */
+
+@font-face {
+    font-family: 'BigJohnPRO-Bold';
+    src: url('BigJohnPRO-Bold.otf') format('otf');
+    font-weight: 900;
+    font-style: normal;
+}
