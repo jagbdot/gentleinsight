@@ -71,6 +71,16 @@ html, body, .container, .header {
     font-family: 'Inter';
 }
 
+@media only screen and (min-width: 1915px) {
+	.bg-img img {
+	    position: absolute;
+	    top: -33.4%;
+	    left: -7.6%;
+	    display: block;
+	    width: 115%;
+	}
+}
+
 @media only screen and (min-width: 1200px) {
 	.title h1 {
 	    font-size: 190px !important;

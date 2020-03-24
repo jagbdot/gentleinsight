@@ -1,4 +1,3 @@
-
 @media only screen and (min-width: 1800px) {
 
   .cd-section {
@@ -20,6 +19,14 @@
 
   .content>div:not(.title) {
       width: 100% !important;
+  }
+
+  .bg-img img {
+      position: absolute;
+      top: -33.4%;
+      left: -7.6%;
+      display: block;
+      width: 115%;
   }
 }
 
