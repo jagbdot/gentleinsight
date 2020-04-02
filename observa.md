@@ -11,7 +11,7 @@ layout: article
 	</div>
 </div>
 <header class="header">
-	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/ipad.png" alt="Background Image" /></div>
+	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/Observa/observa-head.jpg" alt="Background Image" /></div>
 	<div class='container table-display'>
 		<h2 class=''>Observa</h2>
 		<div class="title">

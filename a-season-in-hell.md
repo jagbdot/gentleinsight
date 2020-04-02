@@ -11,9 +11,9 @@ layout: article
 	</div>
 </div>
 <header class="header">
-	<div class="bg-img"><img class='season-bg' src="{{ site.baseurl }}/assets/img/A-season-in-hell/head3.jpeg" alt="Background Image" /></div>
+	<div class="bg-img"><img class='season-bg' src="{{ site.baseurl }}/assets/img/A-season-in-hell/season-head2.jpg" alt="Background Image" /></div>
 	<div class='container table-display'>
-		<h2 class=''>A season in hell</h2>
+		<h2 class=''>Arthur Rimbaud</h2>
 		<div class="title">
 			<h1 class='project-title'>A season in hell</h1>
 			<div class='row'>

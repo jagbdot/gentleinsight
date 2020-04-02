@@ -11,7 +11,7 @@ layout: article
 	</div>
 </div>
 <header class="header">
-	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/science-and-technology/davincimockup11.jpg" alt="Background Image" /></div>
+	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/science-and-technology/da-vinci-head-fff.jpg" alt="Background Image" /></div>
 	<div class='container table-display'>
 		<h2 class=''>Leonardo Da Vinci</h2>
 		<div class="title">
@@ -59,6 +59,8 @@ layout: article
 					<p>The main work here was to make a collage of images related to the subject. I took the main invention as the helicopter (drawn in 1493, 450 years earlier than an actual helicopter would take to the air). The idea was to portray the golden era of the renaissance and so the design had to convey this in some graphic sense. The mystery and knowledge were also important factors to go for. I began using one of his drawings and gave up on that idea.</p>
 					<p>To make the context more personal the background of the sky night includes Da Vinci’s calligraphy taken from his notes and observations. The process was very quickly</p>
 					<blockquote>...The idea was to portray the golden era of the renaissance and so the design had to convey this in some graphic sense.</blockquote>
+					<div class='project-img-vertical'><img src="{{ site.baseurl }}/assets/img/science-and-technology/davinci-head4.jpg" alt="Background Image"/></div>
+					<div class='project-img-horizontal'><img src="{{ site.baseurl }}/assets/img/science-and-technology/davinci-blue.jpg" alt="Background Image"/></div>
 					<div class='project-img-together'>
 						<div class='row'>
 							<div class='col-md-6'>
@@ -66,26 +68,6 @@ layout: article
 							</div>
 							<div class='col-md-6'>
 								<div class='project-img-split'><img class='centered' src="{{ site.baseurl }}/assets/img/science-and-technology/davincimockup24.jpg" alt="Background Image"/></div>
-							</div>
-						</div>
-					</div>
-					<div class='project-img-together'>
-						<div class='row'>
-							<div class='col-md-6'>
-								<div class='project-img-split'><img class='centered' src="{{ site.baseurl }}/assets/img/science-and-technology/da-vinci-mockup5.jpg" alt="Background Image"/></div>
-							</div>
-							<div class='col-md-6'>
-								<div class='project-img-split'><img class='centered' src="{{ site.baseurl }}/assets/img/science-and-technology/davincimockup22.jpg" alt="Background Image"/></div>
-							</div>
-						</div>
-					</div>
-					<div class='project-img-together'>
-						<div class='row'>
-							<div class='col-md-6'>
-								<div class='project-img-split'><img class='centered' src="{{ site.baseurl }}/assets/img/science-and-technology/davincimockup13.jpg" alt="Background Image"/></div>
-							</div>
-							<div class='col-md-6'>
-								<div class='project-img-split'><img class='centered' src="{{ site.baseurl }}/assets/img/science-and-technology/davincimockup29.jpg" alt="Background Image"/></div>
 							</div>
 						</div>
 					</div>

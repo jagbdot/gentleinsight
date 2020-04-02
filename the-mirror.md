@@ -11,11 +11,11 @@ layout: article
 	</div>
 </div>
 <header class="header">
-	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/ipad.png" alt="Background Image" /></div>
+	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/The-mirror/mirror-head2.jpg" alt="Background Image" /></div>
 	<div class='container table-display'>
-		<h2 class=''>The mirror</h2>
+		<h2 class=''>Stop motion</h2>
 		<div class="title">
-			<h1 class='project-title'>The Mirror</h1>
+			<h1 class='project-title'>The hand mirror</h1>
 			<div class='row'>
 				<div class='col-md-3 d-sm-none d-md-block d-lg-block d-none not-hidden'>
 					<div class='icons-intro'>
@@ -46,7 +46,7 @@ layout: article
 	<div class='row'>
 		<div class='col-md-3'>
 			<aside class='project-parameters'>
-						<img src='{{ site.baseurl }}/assets/img/Nooske/cover.jpg'>
+						<img src='{{ site.baseurl }}/assets/img/The-mirror/hand-finished.gif'>
 					<span><b>Ilustration / Animation</b></span>
 					<p>Confucius said once: "The mirror reflects all objects without being sullied".</p>	
 			</aside>
@@ -58,19 +58,8 @@ layout: article
 					<p><b>3 ideas came by the concept from the mirror.</b> With the first one i remembered one of the pictures of <a href=''>René Magritte</a> ( <a href=''>La Clairvoyance</a> ) from 1936, where an artist is painting a bird out of looking an egg on a table. In the same way, here the character is very static, looking itself as an egg in the mirror, and behind is the unstoppable movement, where a bunch of birds are flying up the sky. The second idea was to make a picture (without animation, but taking the advantage from having each frame of the hand movement) where many hands are reflecting each other in a different place. Where the movement (or time) is watching itself.</p>
 					<p>The third and last idea was to show the sky atmosphere form the earth and the one that is seen out in the universe. The sun and the moon. The distance when looking. The change of light when things are in-depth or show themselves in a superficial level.</p>
 					<blockquote>...Upfront and behind. The face and the back. Day and night. The hand mirror is two sided. You can play with opposites and convey an idea.</blockquote>
-					<img class='centered' src="{{ site.baseurl }}/assets/img/the-mirror/gesto-2.gif" alt="Background Image"/>
-					<div class='project-img-square-together'>
-						<div class='row'>
-							<div class='col-md-6'>
-								<div class='project-img-split'><img class='centered' src="{{ site.baseurl }}/assets/img/The-mirror/hand-finished.gif" alt="Background Image"/></div>
-							</div>
-							<div class='col-md-6'>
-								<div class='project-img-split'><img class='centered' src="{{ site.baseurl }}/assets/img/The-mirror/manos.gif" alt="Background Image"/></div>
-							</div>
-						</div>
-					</div>
+					<div class='project-img-vertical'><img class='centered' src="{{ site.baseurl }}/assets/img/The-mirror/hand-finished.gif" alt="Background Image"/></div>
 					<div class='project-img-horizontal'><img class='centered' src="{{ site.baseurl }}/assets/img/The-mirror/manos.jpg" alt="Background Image"/></div>
-					<div class='project-img-vertical'><img class='centered' src="{{ site.baseurl }}/assets/img/The-mirror/tv-motion.gif" alt="Background Image"/></div>
 					<video playsinline autoplay muted loop>
 						<source src="{{ site.baseurl }}/assets/img/The-mirror/birds.mp4" type="video/mp4"  />
 					    <source src="{{ site.baseurl }}/assets/img/The-mirror/birds.webm" type="video/webm"  />

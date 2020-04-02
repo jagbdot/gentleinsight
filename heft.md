@@ -11,9 +11,9 @@ layout: article
 	</div>
 </div>
 <header class="header">
-	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/Heft/first-attempt.jpg" alt="Background Image" /></div>
+	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/Heft/heft-head5.jpg" alt="Background Image" /></div>
 	<div class='container table-display'>
-		<h2 class=''>Heft Antwerp</h2>
+		<h2 class=''>Cocktail bar</h2>
 		<div class="title">
 			<h1 class='project-title'>Heft Antwerp</h1>
 			<div class='row'>
@@ -72,10 +72,6 @@ layout: article
 						</div>
 					</div>
 					<div class='project-img-horizontal'><img class='top' src="{{ site.baseurl }}/assets/img/Heft/man-r.jpg" alt="Background Image"/></div>
-					<video playsinline autoplay muted loop type='video/webm'>
-						<source src="assets/img/Heft/video-drink.mp4" type="video/mp4"  />
-						<source src="assets/img/Heft/video-drink.webm" type="video/webm"  />
-					</video>
 					<blockquote>...A distinctive aspect from this bar it's the angle from the windows, showing a good perspective from the Schelde river.</blockquote>
 				</div>
 			</article>

@@ -11,9 +11,9 @@ layout: article
 	</div>
 </div>
 <header class="header">
-	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/ead/ead-mockup-f2.jpg" alt="Background Image" /></div>
+	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/ead/ead-head-f2.jpg" alt="Background Image" /></div>
 	<div class='container table-display'>
-		<h2 class=''>Architecture & design school</h2>
+		<h2 class=''>Architecture faculty</h2>
 		<div class="title">
 			<h1 class='project-title'>ead official website</h1>
 			<div class='row'>

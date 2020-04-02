@@ -67,18 +67,8 @@ html, body, .container, .header {
     font-weight: 900;
     font-size: calc(54px + 10.5vw) !important;
     margin: 0 auto;
-    letter-spacing: -12px;
+    letter-spacing: -13px;
     font-family: 'Inter';
-}
-
-@media only screen and (min-width: 1915px) {
-	.bg-img img {
-	    position: absolute;
-	    top: -33.4%;
-	    left: -7.6%;
-	    display: block;
-	    width: 115%;
-	}
 }
 
 @media only screen and (min-width: 1200px) {
@@ -215,6 +205,7 @@ button.trigger span::before {
     color: white;
     font-size: 28px;
     left: 0;
+    letter-spacing: -0.1px;
     text-transform: unset;
     top: 5px;
     width: 100%;

@@ -12,9 +12,9 @@ layout: article
 	</div>
 </div>
 <header class="header">
-	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/Catching-the-mind-robber/head.jpeg" alt="Background Image" /></div>
+	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/Catching-the-mind-robber/catching-head-fff.jpg" alt="Background Image" /></div>
 	<div class='container table-display'>
-		<h2 class=''>The mind robber</h2>
+		<h2 class=''>Andrew Campbel</h2>
 		<div class="title">
 			<h1 class='project-title'>The mind robber</h1>
 			<div class='row'>

@@ -11,11 +11,11 @@ layout: article
 	</div>
 </div>
 <header class="header">
-	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/Yo-hubiera-o-hubiese-amado/casanova-mockup-6.jpg" alt="Background Image" /></div>
+	<div class="bg-img"><img src="{{ site.baseurl }}/assets/img/Yo-hubiera-o-hubiese-amado/casanova-head.jpg" alt="Background Image" /></div>
 	<div class='container table-display'>
-		<h2 class=''>I would have loved</h2>
+		<h2 class=''>Felix Francisco Casanova</h2>
 		<div class="title">
-			<h1 class='project-title'>I would have loved</h1>
+			<h1 class='project-title'>Intimate diary</h1>
 			<div class='row'>
 				<div class='col-md-3 d-sm-none d-md-block d-lg-block d-none not-hidden'>
 					<div class='icons-intro'>
